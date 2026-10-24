@@ -10,7 +10,7 @@ Tiny Trails is a small 3D arcade hopping game made with Three.js for a bachelor 
 [Name | GitHub user]
 1. Andrew Húngaro | andrewhungaro42_design
 2. Felipe Augusto | felipesaugusto
-3. Vinícius F. | ViniFunt
+3. Vinícius do Carmo Soares | ViniFunt
 4. Vinícius Machado | viniciusmachadovianna
 
 ## How to use

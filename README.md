@@ -1,2 +1,0 @@
-# jogo
-Three.js game
